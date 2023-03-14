@@ -1,0 +1,4 @@
+C:\Users\wbodron\Kinemetrix\_PartsWorld v2\PartsWorld\PWWorker\bin\Release\net7.0\win-x64\publish\appsettings.Development.json
+C:\Users\wbodron\Kinemetrix\_PartsWorld v2\PartsWorld\PWWorker\bin\Release\net7.0\win-x64\publish\appsettings.json
+C:\Users\wbodron\Kinemetrix\_PartsWorld v2\PartsWorld\PWWorker\bin\Release\net7.0\win-x64\publish\PWWorker.pdb
+C:\Users\wbodron\Kinemetrix\_PartsWorld v2\PartsWorld\PWWorker\bin\Release\net7.0\win-x64\publish\PWWorker.exe

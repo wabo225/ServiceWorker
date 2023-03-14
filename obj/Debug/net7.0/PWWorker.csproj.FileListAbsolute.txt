@@ -1,0 +1,5 @@
+C:\Users\wbodron\Kinemetrix\_PartsWorld v2\PartsWorld\PWWorker\obj\Debug\net7.0\PWWorker.csproj.AssemblyReference.cache
+C:\Users\wbodron\Kinemetrix\_PartsWorld v2\PartsWorld\PWWorker\obj\Debug\net7.0\PWWorker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wbodron\Kinemetrix\_PartsWorld v2\PartsWorld\PWWorker\obj\Debug\net7.0\PWWorker.AssemblyInfoInputs.cache
+C:\Users\wbodron\Kinemetrix\_PartsWorld v2\PartsWorld\PWWorker\obj\Debug\net7.0\PWWorker.AssemblyInfo.cs
+C:\Users\wbodron\Kinemetrix\_PartsWorld v2\PartsWorld\PWWorker\obj\Debug\net7.0\PWWorker.csproj.CoreCompileInputs.cache
